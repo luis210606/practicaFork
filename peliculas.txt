@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 PeliCarlos1
 PeliCarlos2
 PeliCarlos3
+=======
+
+PeliCarlos1
+PeliCarlos2
+PeliCarlos3
+>>>>>>> ea71f180a8d5035803a9050ddeb869c5d8920e24
