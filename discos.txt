@@ -8,4 +8,6 @@ disco3 Luis Gonzalez
 discocarol1
 discocarol2
 discocarol3
-
+discomarcos1
+discomarcos2
+discomarcos3
