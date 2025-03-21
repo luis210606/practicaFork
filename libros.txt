@@ -1,3 +1,6 @@
 librocarol1
 librocarol2
 librocarol3
+libromarcos1
+libromarcos2
+libromarcos3
