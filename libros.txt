@@ -1,7 +1,15 @@
+libro1-Israel
+libro2-Israel
+libro3-Israel
+disco1 Luis Gonzalez
+disco2 Luis Gonzalez
+disco3 Luis Gonzalez
 librocarol1
 librocarol2
 librocarol3
-
 libro enrique1
 libro enrique2
 libro enrique3
+libromarcos1
+libromarcos2
+libromarcos3
